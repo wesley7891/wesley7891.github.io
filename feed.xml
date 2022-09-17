@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-18T00:25:33+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Wesley’s Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Go Wesley !</title><link href="http://localhost:4000/2022/09/17/first-post.html" rel="alternate" type="text/html" title="Go Wesley !" /><published>2022-09-17T00:00:00+08:00</published><updated>2022-09-17T00:00:00+08:00</updated><id>http://localhost:4000/2022/09/17/first-post</id><content type="html" xml:base="http://localhost:4000/2022/09/17/first-post.html"><![CDATA[<p>I decide to use English to write blogs at this month.</p>
+
+<ul>
+  <li>
+    <p>First, if I want to see the big world, I must go to use English totally.</p>
+  </li>
+  <li>
+    <p>Second, the Chinese language is dying</p>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[I decide to use English to write blogs at this month.]]></summary></entry></feed>
